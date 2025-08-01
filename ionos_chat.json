@@ -1964,7 +1964,7 @@
                 "show": true,
                 "title_case": false,
                 "type": "str",
-                "value": ""
+                "value": "IONOS_API_KEY"
               },
               "model_name": {
                 "_input_type": "DropdownInput",
